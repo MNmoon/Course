@@ -1,0 +1,709 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="12252561-438b-4da3-b8ba-d0e6afdd7866" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/UI_Testing$.coverage" NAME="修改文件 Coverage Results" MODIFIED="1571845011908" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_course/day008_文件操作" />
+    <SUITE FILE_PATH="coverage/UI_Testing$10_.coverage" NAME="10_光标 Coverage Results" MODIFIED="1571842727625" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_course/day008_文件操作/a" />
+    <SUITE FILE_PATH="coverage/UI_Testing$03_.coverage" NAME="03_推导式 Coverage Results" MODIFIED="1572787307445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_course/day12_生成器" />
+    <SUITE FILE_PATH="coverage/UI_Testing$02_.coverage" NAME="02_生成器 Coverage Results" MODIFIED="1572786060000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_course/day12_生成器" />
+    <SUITE FILE_PATH="coverage/UI_Testing$07_.coverage" NAME="07_读写模式 Coverage Results" MODIFIED="1571753876297" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_course/day008_文件操作" />
+    <SUITE FILE_PATH="coverage/UI_Testing$11_truncate.coverage" NAME="11_truncate Coverage Results" MODIFIED="1571843401773" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_course/day008_文件操作" />
+    <SUITE FILE_PATH="coverage/UI_Testing$py_test_for_add_to_cart_Assert_test.coverage" NAME="py.test for add_to_cart.Assert_test Coverage Results" MODIFIED="1570377307709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/UI_Testing$py_test_for_add_to_cart_Assert_test_test_case.coverage" NAME="py.test for add_to_cart.Assert_test.test_case Coverage Results" MODIFIED="1570377373348" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/UI_Testing$course_48.coverage" NAME="course_48 Coverage Results" MODIFIED="1571669925066" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_course/day008_文件操作" />
+    <SUITE FILE_PATH="coverage/UI_Testing$py_test_in_add_to_cart_py.coverage" NAME="py.test in add_to_cart.py Coverage Results" MODIFIED="1570377323058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/UI_Testing$09_.coverage" NAME="09_追加读 Coverage Results" MODIFIED="1571752888600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_course/day008_文件操作" />
+    <SUITE FILE_PATH="coverage/UI_Testing$13_.coverage" NAME="13_日志处理 Coverage Results" MODIFIED="1571845904689" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_course/day008_文件操作" />
+    <SUITE FILE_PATH="coverage/UI_Testing$06_.coverage" NAME="06_迭代器和闭包 Coverage Results" MODIFIED="1572660057852" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_course/day10_函数的进阶" />
+    <SUITE FILE_PATH="coverage/UI_Testing$11_.coverage" NAME="11_函数名的应用 Coverage Results" MODIFIED="1572667175446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_course/day10_函数的进阶" />
+    <SUITE FILE_PATH="coverage/UI_Testing$05_.coverage" NAME="05_迭代器 Coverage Results" MODIFIED="1572703087545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_course/day11_迭代器和闭包" />
+    <SUITE FILE_PATH="coverage/UI_Testing$04_.coverage" NAME="04_闭包 Coverage Results" MODIFIED="1572700566620" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_course/day11_迭代器和闭包" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="05_迭代器.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Python2019/python_course/day11_迭代器和闭包/05_迭代器.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="765">
+              <caret line="51" selection-start-line="51" selection-end-line="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="02_生成器.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Python2019/python_course/day12_生成器/02_生成器.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="157">
+              <caret line="126" column="10" selection-start-line="126" selection-start-column="10" selection-end-line="126" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="03_推导式.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Python2019/python_course/day12_生成器/03_推导式.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="49" column="12" selection-start-line="49" selection-start-column="12" selection-end-line="49" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="04_生成器推导式.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../Python2019/python_course/day12_生成器/04_生成器推导式.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="14" lean-forward="true" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="01_今日内容大纲" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Python2019/python_course/day12_生成器/01_今日内容大纲">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="525">
+              <caret line="35" selection-start-line="35" selection-end-line="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <dirStrings>
+      <dir>$PROJECT_DIR$/python_course/day007_基础数据类型补充</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/add_to_cart.py" />
+        <option value="$PROJECT_DIR$/course_48.py" />
+        <option value="$PROJECT_DIR$/python_course/day008_文件操作/course_48.py" />
+        <option value="$PROJECT_DIR$/python_course/day008_文件操作/01_今日内容大纲.py" />
+        <option value="$PROJECT_DIR$/python_course/day008_文件操作/02_作业讲解.py" />
+        <option value="$PROJECT_DIR$/python_course/day008_文件操作/03_基本文件操作.py" />
+        <option value="$PROJECT_DIR$/python_course/day008_文件操作/04_write.py" />
+        <option value="$PROJECT_DIR$/python_course/day008_文件操作/05_append.py" />
+        <option value="$PROJECT_DIR$/python_course/day008_文件操作/06_文件拷贝.py" />
+        <option value="$PROJECT_DIR$/python_course/day008_文件操作/08_写读模式.py" />
+        <option value="$PROJECT_DIR$/python_course/day008_文件操作/a/dishes" />
+        <option value="$PROJECT_DIR$/python_course/day008_文件操作/dishes" />
+        <option value="$PROJECT_DIR$/python_course/day008_文件操作/dishes.txt" />
+        <option value="$PROJECT_DIR$/python_course/day008_文件操作/a/10_光标.py" />
+        <option value="$PROJECT_DIR$/python_course/day008_文件操作/07_读写模式.py" />
+        <option value="$PROJECT_DIR$/python_course/day008_文件操作/09_追加读.py" />
+        <option value="$PROJECT_DIR$/python_course/day008_文件操作/a/dishes.txt" />
+        <option value="$PROJECT_DIR$/python_course/day008_文件操作/10_光标.py" />
+        <option value="$PROJECT_DIR$/python_course/day008_文件操作/a/我的天哪-trancate.txt" />
+        <option value="$PROJECT_DIR$/python_course/day008_文件操作/11_truncate.py" />
+        <option value="$PROJECT_DIR$/python_course/day008_文件操作/a/oh-my-god.txt" />
+        <option value="$PROJECT_DIR$/python_course/day008_文件操作/a/alex.txt" />
+        <option value="$PROJECT_DIR$/python_course/day008_文件操作/a/alex1.txt" />
+        <option value="$PROJECT_DIR$/python_course/day008_文件操作/修改文件.py" />
+        <option value="$PROJECT_DIR$/python_course/day008_文件操作/a/2019-10-23.log" />
+        <option value="$PROJECT_DIR$/python_course/day008_文件操作/13_日志处理.py" />
+        <option value="$PROJECT_DIR$/python_course/day10_函数的进阶/01_今日大纲.py" />
+        <option value="$PROJECT_DIR$/python_course/day10_函数的进阶/user_info.txt" />
+        <option value="$PROJECT_DIR$/python_course/day10_函数的进阶/02_作业讲解.py" />
+        <option value="$PROJECT_DIR$/python_course/day10_函数的进阶/03_动态传参.py" />
+        <option value="$PROJECT_DIR$/python_course/day10_函数的进阶/04_命名空间.py" />
+        <option value="$PROJECT_DIR$/python_course/day10_函数的进阶/05_函数的嵌套.py" />
+        <option value="$PROJECT_DIR$/python_course/day10_函数的进阶/06_迭代器和闭包.py" />
+        <option value="$PROJECT_DIR$/python_course/day10_函数的进阶/11_函数名的应用.py" />
+        <option value="$PROJECT_DIR$/python_course/day11_迭代器和闭包/02_作业讲解.py" />
+        <option value="$PROJECT_DIR$/python_course/day11_迭代器和闭包/04_闭包.py" />
+        <option value="$PROJECT_DIR$/python_course/day11_迭代器和闭包/05_迭代器.py" />
+        <option value="$PROJECT_DIR$/python_course/day12_生成器/01_今日内容大纲" />
+        <option value="$PROJECT_DIR$/python_course/day12_生成器/02_生成器.py" />
+        <option value="$PROJECT_DIR$/python_course/day12_生成器/03_推导式.py" />
+        <option value="$PROJECT_DIR$/python_course/day12_生成器/04_生成器推导式.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="806" />
+    <option name="y" value="169" />
+    <option name="width" value="757" />
+    <option name="height" value="533" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Python2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python2019" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python2019" type="462c0819:PsiDirectoryNode" />
+              <item name="python_course" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python2019" type="462c0819:PsiDirectoryNode" />
+              <item name="python_course" type="462c0819:PsiDirectoryNode" />
+              <item name="day12_生成器" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/zhangyi/PycharmProjects2/UI_Testing/python_course/day11_迭代器和闭包/01_今日内容大纲" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/python_course/day11_迭代器和闭包" />
+      <recent name="$PROJECT_DIR$/python_course/day008_文件操作" />
+      <recent name="$PROJECT_DIR$/python_course" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.03_推导式">
+    <configuration name="02_生成器" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python2019" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_course/day12_生成器" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_course/day12_生成器/02_生成器.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="03_推导式" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python2019" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_course/day12_生成器" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_course/day12_生成器/03_推导式.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="04_闭包" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python2019" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_course/day11_迭代器和闭包" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_course/day11_迭代器和闭包/04_闭包.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="05_迭代器" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="UI_Testing" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_course/day11_迭代器和闭包" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_course/day11_迭代器和闭包/05_迭代器.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="06_迭代器和闭包" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python2019" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_course/day10_函数的进阶" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_course/day10_函数的进阶/06_迭代器和闭包.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="11_函数名的应用" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python2019" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_course/day10_函数的进阶" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_course/day11_迭代器和闭包/11_函数名的应用.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.06_迭代器和闭包" />
+      <item itemvalue="Python.11_函数名的应用" />
+      <item itemvalue="Python.04_闭包" />
+      <item itemvalue="Python.02_生成器" />
+      <item itemvalue="Python.03_推导式" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.03_推导式" />
+        <item itemvalue="Python.02_生成器" />
+        <item itemvalue="Python.04_闭包" />
+        <item itemvalue="Python.11_函数名的应用" />
+        <item itemvalue="Python.06_迭代器和闭包" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="12252561-438b-4da3-b8ba-d0e6afdd7866" name="Default" comment="" />
+      <created>1570375402454</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570375402454</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="py_test_for_add_to_cart_Assert_test - 2019.10.06 at 23h 55m 07s.xml">
+      <configuration name="py.test for add_to_cart.Assert_test" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_add_to_cart_py - 2019.10.06 at 23h 55m 23s.xml">
+      <configuration name="py.test in add_to_cart.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_for_add_to_cart_Assert_test_test_case - 2019.10.06 at 23h 56m 32s.xml">
+      <configuration name="py.test for add_to_cart.Assert_test.test_case" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="797" extended-state="6" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.5007153" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32950193" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.22142857" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49928468" weight="0.3275862" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17238913" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32857144" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4701835" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1972028" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49928468" weight="0.3275862" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.5007153" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32857144" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32950193" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../Python2019/python_course/day008_文件操作/07_读写模式.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python2019/python_course/day008_文件操作/08_写读模式.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python2019/python_course/day008_文件操作/09_追加读.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python2019/add_to_cart.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="27" column="11" selection-start-line="27" selection-start-column="11" selection-end-line="27" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python2019/add_to_cart.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="27" column="11" selection-start-line="27" selection-start-column="11" selection-end-line="27" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python2019/add_to_cart.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="27" column="11" lean-forward="true" selection-start-line="27" selection-start-column="11" selection-end-line="27" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pycharm/_jb_pytest_runner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python2019/add_to_cart.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="27" column="11" selection-start-line="27" selection-start-column="11" selection-end-line="27" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python2019/python_course/day008_文件操作/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_course/day008_文件操作/a/douyin.jpg" />
+    <entry file="file://$PROJECT_DIR$/python_course/day008_文件操作/douyin.jpg" />
+    <entry file="file://$PROJECT_DIR$/../Python2019/python_course/day008_文件操作/06_文件拷贝.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python2019/python_course/day008_文件操作/08_写读模式.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python2019/python_course/day008_文件操作/05_append.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python2019/python_course/day008_文件操作/04_write.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python2019/python_course/day008_文件操作/03_基本文件操作.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python2019/python_course/day008_文件操作/02_作业讲解.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python2019/python_course/day008_文件操作/01_今日内容大纲.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python2019/python_course/day008_文件操作/course_48.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_course/day008_文件操作/dishes" />
+    <entry file="file://$PROJECT_DIR$/../Python2019/python_course/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_course/day008_文件操作/dishes.txt" />
+    <entry file="file://$PROJECT_DIR$/python_course/day008_文件操作/a/dishes" />
+    <entry file="file://$PROJECT_DIR$/../Python2019/python_course/day008_文件操作/a/douyin1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python2019/python_course/day008_文件操作/10_光标.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="43" column="34" selection-start-line="43" selection-start-column="34" selection-end-line="43" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python2019/python_course/day008_文件操作/07_读写模式.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python2019/python_course/day008_文件操作/09_追加读.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python2019/python_course/day008_文件操作/a/dishes.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python2019/python_course/day008_文件操作/a/alex.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python2019/python_course/day008_文件操作/a/alex1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="10" lean-forward="true" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python2019/python_course/day008_文件操作/12_修改文件.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="14" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python2019/python_course/day008_文件操作/13_日志处理.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python2019/python_course/day008_文件操作/11_truncate.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python2019/python_course/day008_文件操作/a/oh-my-god.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="4" selection-start-column="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python2019/python_course/day008_文件操作/a/2019-10-23.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="16" selection-start-column="16" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python2019/python_course/day10_函数的进阶/student_msg.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="41" selection-end-column="214" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python2019/python_course/day10_函数的进阶/02_作业讲解.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2220">
+          <caret line="148" column="43" selection-start-line="148" selection-end-line="149" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python2019/python_course/day10_函数的进阶/03_动态传参.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="548">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python2019/python_course/day10_函数的进阶/user_info.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="11" selection-start-line="2" selection-end-line="2" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python2019/python_course/day10_函数的进阶/04_命名空间.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="394">
+          <caret line="35" column="57" selection-start-line="35" selection-start-column="57" selection-end-line="35" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python2019/python_course/day10_函数的进阶/05_函数的嵌套.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2295">
+          <caret line="153" column="33" selection-start-line="153" selection-start-column="33" selection-end-line="153" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python2019/python_course/day11_迭代器和闭包/11_函数名的应用.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="458">
+          <caret line="113" selection-start-line="113" selection-end-line="113" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python2019/python_course/day11_迭代器和闭包/02_作业讲解.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python2019/python_course/day10_函数的进阶/06_迭代器和闭包.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="473">
+          <caret line="157" column="24" selection-start-line="157" selection-start-column="24" selection-end-line="157" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python2019/python_course/day11_迭代器和闭包/01_今日内容大纲">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python2019/python_course/day11_迭代器和闭包/04_闭包.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-14">
+          <caret line="85" column="18" lean-forward="true" selection-start-line="85" selection-start-column="18" selection-end-line="85" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python2019/python_course/day12_生成器/01_今日内容大纲">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python2019/python_course/day11_迭代器和闭包/05_迭代器.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="51" selection-start-line="51" selection-end-line="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python2019/python_course/day12_生成器/02_生成器.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="126" column="10" selection-start-line="126" selection-start-column="10" selection-end-line="126" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python2019/python_course/day12_生成器/03_推导式.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="49" column="12" selection-start-line="49" selection-start-column="12" selection-end-line="49" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python2019/python_course/day12_生成器/04_生成器推导式.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="14" lean-forward="true" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

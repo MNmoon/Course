@@ -1,0 +1,49 @@
+1.昨日内容回顾
+    函数名（第一类对象）
+        2.函数名可以当做变量来用
+        2.函数名可以作为集合类的元素
+        3.函数名可以作为参数传递
+        4.函数名可以作为返回值返回
+     __name__ 查看函数名字
+     __doc__查看函数的稳定注释
+
+     闭包：
+        内部函数对外部函数中的变量的调用
+        def outer():
+            a = 10
+            def inner():
+                a
+             return inner
+        好处：
+            1.保护变量
+            2.常驻内存
+     迭代器：
+     dir() 查看数据可以执行的方法
+     iterable:在数距内存存在__iter__() 可以被迭代
+     iterator：迭代器  存在__iter__() 还存在__next__()
+
+     还可以引入collections 中的iterable 和 iterator
+     isinstance(对象，类型) 可以判断对象是否为xx类型   是否字母 是否数字等
+
+     特征：
+        1.节省内存
+        2.惰性机制(只有执行__next__()才会区取值)
+        3.只能向前
+
+     For 循环内部使用的是迭代器
+     lst = [1,2,3]
+     it = lst.__iter__()
+
+     #模拟for循环
+     while 1:
+        try:
+            print(iter.next())
+        except StopIteration:
+            print("game over")
+            break
+
+2.今日主要内容
+    1.生成器
+    2.生成器函数
+    3.各种推导式
+    4.生成器表达式（笔试题）
